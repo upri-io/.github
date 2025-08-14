@@ -1,12 +1,19 @@
-## Hi there 👋
+# UPRI – Universal Personal Risk Index
 
-<!--
+We’re building a cooperative, community-driven insurance model powered by the **Personal Risk Score (PRS)** — giving people control, transparency, and rewards for managing their own risk.
 
-**Here are some ideas to get you started:**
+## 🚀 What We’re About
+- Transparent, data-driven insurance
+- Cooperative risk pooling
+- Rewards for safer, healthier choices
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📂 Public Repositories
+- **upri-docs** – PRS explainer, whitepapers, onboarding guides
+- **brand-assets** – Logos, style guides, press kit
+
+## 🌐 Learn More
+Visit [upri.io](https://upri.io)  
+Follow us on [LinkedIn](https://linkedin.com/company/upri-io) and [X](https://x.com/upri_io)
+
+---
+*Changing the future of insurance — together.*
